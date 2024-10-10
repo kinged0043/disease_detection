@@ -1,4 +1,4 @@
-Description
+###Description
 ___
 In Sub-Saharan Africa, it is estimated that crop diseases and pests can reduce yields by up to 40% annually, with significant impacts on the food security and the economy of the region. This is a major concern, considering that agriculture employs more than 60% of the population and accounts for about 23% of the region's GDP.
 
@@ -11,7 +11,8 @@ By harnessing the power of machine learning, we aim to develop advanced solution
 [zindi image](zindi.png)
 > [link to the competiton just incase](https://zindi.africa/competitions/ghana-crop-disease-detection-challenge)
 
-Evaluation
+
+###Evaluation
 ___
 The error metric for this competition is Mean Average Precision @ Intersection over Union(IoU) threshold -0.5.
 
@@ -28,14 +29,14 @@ ID_2TZLLT80 Rot 0.5 130 12 340 300
 Please note additional requirements for submissions under the Explainability and Resource Restrictions sections.
 
 
-Explainability
+###Explainability
 ___
 As part of RAIL's commitment to Responsible AI, all submitted solutions must include explainability components. Participants are required to integrate explainability techniques such as Grad-CAM, LIME, or SHAP. These techniques should provide clear, visual explanations of how the models make their predictions, ensuring transparency and fostering trust in the AI solutions.
 
 Please note that this is a requirement for winning in this challenge.
 
 
-Resource Restrictions
+###Resource Restrictions
 ___
 Your solutions for this challenge must be able to function in a resource-limited setting i.e. it should run on a low-resource smartphone. As such, we are imposing the following restrictions on resources:
 
@@ -43,7 +44,7 @@ Your solutions for this challenge must be able to function in a resource-limited
     Model frameworks must be appropriate for use on edge devices (e.g. ONNX, TensorFlow Lite)
 
 
-Timeline
+###Timeline
 ___
 Competition starts on 4 October 2024 at 8:00 AM GMT.
 
