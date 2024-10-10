@@ -1,3 +1,11 @@
+*.password.txt
+*zindi.png
+ghana-crop-disease-detection-challenge20241003-7123-59ht2i/
+
+# mlops stuff like dvc, mlflow, etc
+.dvc/
+mlruns/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
