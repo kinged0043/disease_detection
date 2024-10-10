@@ -8,8 +8,8 @@ The objective of this challenge is to develop robust machine learning models tha
 
 By harnessing the power of machine learning, we aim to develop advanced solutions for detecting and identifying multiple diseases in three vital crops: corn, pepper, and tomatoes. The models and solutions developed in this challenge will support accurate and timely disease detection, enhance agricultural productivity and sustainability, and ensure food security for millions of people.
 
-(zindi image)[zindi.png]
-> (link to the competiton just incase)[https://zindi.africa/competitions/ghana-crop-disease-detection-challenge]
+[zindi image](zindi.png)
+> [link to the competiton just incase](https://zindi.africa/competitions/ghana-crop-disease-detection-challenge)
 
 Evaluation
 ___
